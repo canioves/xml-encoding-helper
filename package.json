@@ -1,7 +1,7 @@
 {
   "name": "xml-encoding-helper",
   "displayName": "XML Encoding Helper",
-  "description": "Переоткрытие XML/XSD файлов в нужной кодировке",
+  "description": "Переоткрытие XML/XSD файлов в кодировке windows-1251",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
